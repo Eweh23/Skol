@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\Skol.exe
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\Skol.deps.json
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\Skol.runtimeconfig.json
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\Skol.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\Skol.dll
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\ref\Skol.dll
+C:\Users\Admin\Documents\Skol\bin\Debug\net5.0\Skol.pdb
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.AssemblyInfo.cs
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.dll
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\ref\Skol.dll
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.pdb
+C:\Users\Admin\Documents\Skol\obj\Debug\net5.0\Skol.genruntimeconfig.cache
